@@ -1,0 +1,33 @@
+.body{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+
+.top{
+    background-color: black;
+    color:white;
+    text-align: center;
+}
+
+.full{
+   position: relative;
+}
+.right{
+    padding: 3%;
+    width:40%;
+    height:50%;
+    
+}
+
+.left{
+    padding: 3%;
+    width: 45%;
+    height: 50%;
+    position: absolute;
+    right: 0;
+    top: 0;
+    
+   
+}
